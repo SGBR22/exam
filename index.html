@@ -1,0 +1,62 @@
+<!doctype html>
+<html lang="ru">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="theme-color" content="#102a43">
+  <title>Тепловой процесс контактора</title>
+  <link rel="preconnect" href="https://ajax.googleapis.com">
+  <link rel="stylesheet" href="/style.css">
+  <script type="module" src="https://ajax.googleapis.com/ajax/libs/model-viewer/4.0.0/model-viewer.min.js"></script>
+</head>
+<body>
+  <div class="paper-noise"></div>
+  <header class="site-header">
+    <a class="brand" href="#top"><span class="brand-mark">◈</span><span>Инженерное исследование</span></a>
+    <nav class="nav"><a href="#animation">Анимация</a><a href="#plots">Графики</a><a href="#models">3D-модели</a></nav>
+    <span class="header-note">COMSOL Multiphysics</span>
+  </header>
+
+  <main id="top">
+    <section class="cover">
+      <div class="cover-copy">
+        <p class="kicker">Численное моделирование · Тепловой анализ</p>
+        <h1>Тепловой процесс<br><em>электромагнитного контактора</em></h1>
+        <p class="lead">Исследование температурного поля и его изменений в конструкции контактора.</p>
+        <div class="cover-line"></div>
+        <p class="cover-meta">Результаты численного расчёта <span>•</span> COMSOL Multiphysics</p>
+      </div>
+      <div class="cover-rule"><span>THERMAL ANALYSIS</span><b>01</b></div>
+    </section>
+
+    <section class="intro">
+      <div class="section-number">01</div>
+      <div><p class="kicker">Введение</p><h2>Динамика нагрева</h2></div>
+      <p>В модели рассматривается последовательный нагрев контактора под действием электромагнитного поля. Ниже представлены визуальные результаты расчёта.</p>
+    </section>
+
+    <section id="animation" class="content-section">
+      <div class="section-heading"><span>01 / Тепловой процесс</span><h2>Анимация нагрева</h2><p>Изменение температурного поля в процессе работы контактора.</p></div>
+      <div class="media-grid one" id="gifSection"></div>
+    </section>
+
+    <section id="plots" class="content-section plots-section">
+      <div class="section-heading"><span>02 / Температурный режим</span><h2>Графики</h2><p>Зависимости, полученные в ходе численного эксперимента.</p></div>
+      <div class="media-grid two" id="svgSection"></div>
+    </section>
+
+    <section id="models" class="content-section models-section">
+      <div class="section-heading"><span>03 / Конструкция</span><h2>3D-модели</h2><p>Интерактивное изображение магнитопровода и распределения поля.</p></div>
+      <div class="media-grid models-grid" id="glbSection"></div>
+    </section>
+
+    <footer><span>Исследование теплового процесса контактора</span><span>2026</span></footer>
+  </main>
+
+  <dialog id="viewerDialog" class="viewer-dialog">
+    <div class="dialog-head"><div><span class="dialog-type" id="dialogType"></span><h2 id="dialogTitle"></h2></div><button class="close-button" id="closeViewer" aria-label="Закрыть">×</button></div>
+    <div id="dialogContent" class="dialog-content"></div>
+  </dialog>
+  <script src="/script.js"></script>
+</body>
+</html>
