@@ -124,7 +124,13 @@ dialog.addEventListener('close', () => content.replaceChildren());
 
 async function init() {
   try {
-    const response = await fetch('/api/files');
+    let response;
+    try {
+      response = await fetch('/api/files');
+      if (!response.ok) throw new Error('API недоступен');
+    } catch (apiError) {
+      response = await fetch('/data/files.json');
+    }
     if (!response.ok) throw new Error('Не удалось получить список результатов');
     const data = await response.json();
     const seen = new Set();

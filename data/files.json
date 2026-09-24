@@ -1,0 +1,124 @@
+{
+    "files":  [
+                  {
+                      "name":  "5час.glb",
+                      "path":  "GLB/5час.glb",
+                      "url":  "/GLB/5%D1%87%D0%B0%D1%81.glb",
+                      "type":  "glb",
+                      "category":  "3D models",
+                      "kind":  "model",
+                      "size":  57635004,
+                      "modified":  "2026-09-23T22:43:30"
+                  },
+                  {
+                      "name":  "5час_с_подписями.glb",
+                      "path":  "GLB/5час_с_подписями.glb",
+                      "url":  "/GLB/5%D1%87%D0%B0%D1%81_%D1%81_%D0%BF%D0%BE%D0%B4%D0%BF%D0%B8%D1%81%D1%8F%D0%BC%D0%B8.glb",
+                      "type":  "glb",
+                      "category":  "3D models",
+                      "kind":  "model",
+                      "size":  57689024,
+                      "modified":  "2026-09-23T22:43:30"
+                  },
+                  {
+                      "name":  "магнитопровод.glb",
+                      "path":  "GLB/магнитопровод.glb",
+                      "url":  "/GLB/%D0%BC%D0%B0%D0%B3%D0%BD%D0%B8%D1%82%D0%BE%D0%BF%D1%80%D0%BE%D0%B2%D0%BE%D0%B4.glb",
+                      "type":  "glb",
+                      "category":  "3D models",
+                      "kind":  "model",
+                      "size":  6057804,
+                      "modified":  "2026-09-23T22:43:30"
+                  },
+                  {
+                      "name":  "магнитопровод_с_подписями.glb",
+                      "path":  "GLB/магнитопровод_с_подписями.glb",
+                      "url":  "/GLB/%D0%BC%D0%B0%D0%B3%D0%BD%D0%B8%D1%82%D0%BE%D0%BF%D1%80%D0%BE%D0%B2%D0%BE%D0%B4_%D1%81_%D0%BF%D0%BE%D0%B4%D0%BF%D0%B8%D1%81%D1%8F%D0%BC%D0%B8.glb",
+                      "type":  "glb",
+                      "category":  "3D models",
+                      "kind":  "model",
+                      "size":  6184468,
+                      "modified":  "2026-09-23T22:43:30"
+                  },
+                  {
+                      "name":  "Распределение при 1 секунде.glb",
+                      "path":  "GLB/Распределение при 1 секунде.glb",
+                      "url":  "/GLB/%D0%A0%D0%B0%D1%81%D0%BF%D1%80%D0%B5%D0%B4%D0%B5%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%BF%D1%80%D0%B8%201%20%D1%81%D0%B5%D0%BA%D1%83%D0%BD%D0%B4%D0%B5.glb",
+                      "type":  "glb",
+                      "category":  "3D models",
+                      "kind":  "model",
+                      "size":  73056308,
+                      "modified":  "2026-09-23T22:43:30"
+                  },
+                  {
+                      "name":  "Распределение_при_1_секунде_с_подписями.glb",
+                      "path":  "GLB/Распределение_при_1_секунде_с_подписями.glb",
+                      "url":  "/GLB/%D0%A0%D0%B0%D1%81%D0%BF%D1%80%D0%B5%D0%B4%D0%B5%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5_%D0%BF%D1%80%D0%B8_1_%D1%81%D0%B5%D0%BA%D1%83%D0%BD%D0%B4%D0%B5_%D1%81_%D0%BF%D0%BE%D0%B4%D0%BF%D0%B8%D1%81%D1%8F%D0%BC%D0%B8.glb",
+                      "type":  "glb",
+                      "category":  "3D models",
+                      "kind":  "model",
+                      "size":  73125000,
+                      "modified":  "2026-09-23T22:43:30"
+                  },
+                  {
+                      "name":  "heat_1.1_sec.gif",
+                      "path":  "GIF/heat_1.1_sec.gif",
+                      "url":  "/GIF/heat_1.1_sec.gif",
+                      "type":  "gif",
+                      "category":  "Animations",
+                      "kind":  "image",
+                      "size":  18262950,
+                      "modified":  "2026-09-23T21:05:05"
+                  },
+                  {
+                      "name":  "Heat_5.1_hours.gif",
+                      "path":  "GIF/Heat_5.1_hours.gif",
+                      "url":  "/GIF/Heat_5.1_hours.gif",
+                      "type":  "gif",
+                      "category":  "Animations",
+                      "kind":  "image",
+                      "size":  18025757,
+                      "modified":  "2026-09-23T21:38:27"
+                  },
+                  {
+                      "name":  "magneto3.gif",
+                      "path":  "GIF/magneto3.gif",
+                      "url":  "/GIF/magneto3.gif",
+                      "type":  "gif",
+                      "category":  "Animations",
+                      "kind":  "image",
+                      "size":  6528096,
+                      "modified":  "2026-09-23T20:31:43"
+                  },
+                  {
+                      "name":  "heat_1.1_sec.gif",
+                      "path":  "heat_1.1_sec.gif",
+                      "url":  "/heat_1.1_sec.gif",
+                      "type":  "gif",
+                      "category":  "Animations",
+                      "kind":  "image",
+                      "size":  18264758,
+                      "modified":  "2026-09-22T21:26:41"
+                  },
+                  {
+                      "name":  "graf-1.svg",
+                      "path":  "Графики/graf-1.svg",
+                      "url":  "/%D0%93%D1%80%D0%B0%D1%84%D0%B8%D0%BA%D0%B8/graf-1.svg",
+                      "type":  "svg",
+                      "category":  "Plots",
+                      "kind":  "image",
+                      "size":  174221,
+                      "modified":  "2026-09-23T21:53:16"
+                  },
+                  {
+                      "name":  "graf-2.svg",
+                      "path":  "Графики/graf-2.svg",
+                      "url":  "/%D0%93%D1%80%D0%B0%D1%84%D0%B8%D0%BA%D0%B8/graf-2.svg",
+                      "type":  "svg",
+                      "category":  "Plots",
+                      "kind":  "image",
+                      "size":  172141,
+                      "modified":  "2026-09-23T21:53:16"
+                  }
+              ]
+}

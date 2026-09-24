@@ -1,7 +1,7 @@
 @echo off
 chcp 65001 >nul
 cd /d "%~dp0"
-where python >nul 2>nul
+python --version >nul 2>nul
 if not errorlevel 1 (
   start "" "http://127.0.0.1:8000"
   python app.py
